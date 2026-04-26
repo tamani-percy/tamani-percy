@@ -12,7 +12,7 @@ I started as a Computer Systems Engineer until I saw the sole strength software 
 * 👾  Avid extra-curricular enthusiast, gamer, and general hobbyist.
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,js,kotlin,git,python,r,ts,vscode,vue,nextjs,vite,tailwind,css,html,jquery,bootstrap,mysql,mongodb,postgresql,flask,fastapi,figma,gcp,wordpress,arduino,raspberrypi,linux,django,flutter,aws,docker,selenium,cpp,dart,nginx,rabbitmq,figma," />
+  <img src="https://skillicons.dev/icons?i=java,spring,js,kotlin,git,python,r,ts,vscode,vue,nextjs,vite,tailwind,css,html,jquery,bootstrap,mysql,mongodb,postgresql,flask,fastapi,figma,gcp,wordpress,arduino,raspberrypi,linux,django,flutter,aws,docker,selenium,cpp,dart,nginx,rabbitmq,render" />
 </p>
 
 ### Socials
